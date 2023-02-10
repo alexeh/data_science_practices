@@ -1,2 +1,0 @@
-#!/bin/zsh
-jupyter notebook
